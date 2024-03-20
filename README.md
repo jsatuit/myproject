@@ -1,11 +1,11 @@
-[!NOTE]
-This you should take into account
+> [!NOTE]
+> This you should take into account
 
-[!IMPORTANT]
-In order to run the program, read this
+> [!IMPORTANT]
+> In order to run the program, read this
 
-[!WARNING]
-There are risks for something
+> [!WARNING]
+> There are risks for something
 
 <details>
 <summary>
